@@ -315,7 +315,7 @@ ob_start();
           </div>
 
           <div class="team-card">
-            <img src="download.png" alt="Mehdi Tadghy" class="team-img" />
+            <img src="download.png" alt="El Mehdi Tadghy" class="team-img" />
             <div class="team-info">
               <h3>Mehdi Tadghy</h3>
               <p class="position">Co-Founder & Finance Director</p>
